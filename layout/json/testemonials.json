@@ -1,0 +1,62 @@
+[
+    {
+        "testemonialOne": [
+            {
+                "left": [
+                    {
+                        "image": "test"
+                    }
+                ]
+            },
+            {
+                "right": [
+                    {
+                        "title": "Join millions of others already using our product!",
+                        "quote": "Well, if I had to say something about this template, I'll be darned if it's not the best out there",
+                        "quoter": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dunder_Mifflin%2C_Inc.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "testemonialTwo": [
+            {
+                "left": [
+                    {
+                        "title": "You cant go wrong with joining out services",
+                        "quote": "This template has helped expand our business in many aspects that I could not imagine",
+                        "quoter": "https://ichef.bbci.co.uk/images/ic/256xn/p03t1rrt.jpg"
+                    }
+                ]
+            },
+            {
+                "right": [
+                    {
+                        "image": "test"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "testemonialThree": [
+            {
+                "title": "Easy to use",
+                "company": "https://img.icons8.com/wired/64/000000/schooltool.png"
+            },
+            {
+                "title": "Best Template Award",
+                "company": "https://ichef.bbci.co.uk/images/ic/256xn/p03t1rrt.jpg"
+            },
+            {
+                "title": "Dundie awards winner",
+                "company": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dunder_Mifflin%2C_Inc.svg"
+            },
+            {
+                "title": "Steve Chirayath :)",
+                "company": "https://img.icons8.com/wired/64/000000/student-male.png"
+            }
+        ]
+    }
+]

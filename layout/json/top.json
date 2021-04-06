@@ -1,0 +1,30 @@
+{
+    "first": {
+        "left": [
+            {
+                "title": "Welcome to the Template",
+                "subtitle": "Input any text you would like :)",
+                "button": "Get Started"
+            }
+        ],
+        "right": [
+            {
+                "image": "https://im4.ezgif.com/tmp/ezgif-4-d6ce059e28c2-gif-im/frame_08_delay-0.05s.gif"
+            }
+        ]
+    },
+    "second": {
+        "left": [
+            {
+                "image": "https://g.foolcdn.com/editorial/images/605774/stock-up-glowing-green-arrow-climbs-on-a-stock-screen.jpg"
+            }
+        ],
+        "right": [
+            {
+                "title": "Why choose this?",
+                "subtitle": "Make your website easy to use and look incredible!",
+                "button": "Who we are"
+            }
+        ]
+    }
+}

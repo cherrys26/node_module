@@ -1,0 +1,42 @@
+{
+    "left": [
+        {
+            "id": "2",
+            "title": "king panel bed",
+            "price": 12.99,
+            "image": "../assets/product-2.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "category": "Bedroom",
+            "rating": 65
+        },
+        {
+            "id": "4",
+            "title": "twin panel bed",
+            "price": 22.99,
+            "image": "../assets/product-4.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "category": "Bedroom",
+            "rating": 65
+        }
+    ],
+    "right": [
+        {
+            "id": "8",
+            "title": "table",
+            "price": 3333.99,
+            "image": "../assets/product-8.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "category": "Living-Room",
+            "rating": 65
+        },
+        {
+            "id": "5",
+            "title": "fridge",
+            "price": 88.99,
+            "image": "../assets/product-5.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "category": "Kitchen",
+            "rating": 65
+        }
+    ]
+}

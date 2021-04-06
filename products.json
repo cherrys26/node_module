@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "title": "queen panel bed",
+            "price": 10.99,
+            "image": "./assets/product-1.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet tellus leo. Mauris eleifend, lorem sit amet porta gravida, dui elit efficitur orci, laoreet ultricies quam velit quis justo. Sed nec arcu consequat, pellentesque sapien vitae, tristique lorem. Morbi suscipit nibh quis arcu bibendum, sit amet consequat orci mattis. Ut ut purus sed lorem hendrerit placerat in ut nisl.1",
+            "category": "Bedroom",
+            "rating": "65"
+        },
+        {
+            "id": "2",
+            "title": "king panel bed",
+            "price": 12.99,
+            "image": "../assets/product-2.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet tellus leo. Mauris eleifend, lorem sit amet porta gravida, dui elit efficitur orci, laoreet ultricies quam velit quis justo. Sed nec arcu consequat, pellentesque sapien vitae, tristique lorem. Morbi suscipit nibh quis arcu bibendum, sit amet consequat orci mattis. Ut ut purus sed lorem hendrerit placerat in ut nisl.2",
+            "category": "Bedroom",
+            "rating": 65
+        },
+        {
+            "id": "3",
+            "title": "single panel bed",
+            "price": 12.99,
+            "image": "../assets/product-3.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet tellus leo. Mauris eleifend, lorem sit amet porta gravida, dui elit efficitur orci, laoreet ultricies quam velit quis justo. Sed nec arcu consequat, pellentesque sapien vitae, tristique lorem. Morbi suscipit nibh quis arcu bibendum, sit amet consequat orci mattis. Ut ut purus sed lorem hendrerit placerat in ut nisl.3",
+            "category": "Bedroom",
+            "rating": 65
+        },
+        {
+            "id": "4",
+            "title": "twin panel bed",
+            "price": 22.99,
+            "image": "../assets/product-4.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet tellus leo. Mauris eleifend, lorem sit amet porta gravida, dui elit efficitur orci, laoreet ultricies quam velit quis justo. Sed nec arcu consequat, pellentesque sapien vitae, tristique lorem. Morbi suscipit nibh quis arcu bibendum, sit amet consequat orci mattis. Ut ut purus sed lorem hendrerit placerat in ut nisl.4",
+            "category": "Bedroom",
+            "rating": 65
+        },
+        {
+            "id": "5",
+            "title": "fridge",
+            "price": 88.99,
+            "image": "../assets/product-5.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet tellus leo. Mauris eleifend, lorem sit amet porta gravida, dui elit efficitur orci, laoreet ultricies quam velit quis justo. Sed nec arcu consequat, pellentesque sapien vitae, tristique lorem. Morbi suscipit nibh quis arcu bibendum, sit amet consequat orci mattis. Ut ut purus sed lorem hendrerit placerat in ut nisl.5",
+            "category": "Kitchen",
+            "rating": 65
+        },
+        {
+            "id": "6",
+            "title": "dresser",
+            "price": 32.99,
+            "image": "../assets/product-6.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet tellus leo. Mauris eleifend, lorem sit amet porta gravida, dui elit efficitur orci, laoreet ultricies quam velit quis justo. Sed nec arcu consequat, pellentesque sapien vitae, tristique lorem. Morbi suscipit nibh quis arcu bibendum, sit amet consequat orci mattis. Ut ut purus sed lorem hendrerit placerat in ut nisl.6",
+            "category": "Bedroom",
+            "rating": 65
+        },
+        {
+            "id": "7",
+            "title": "couch",
+            "price": 45.99,
+            "image": "../assets/product-7.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet tellus leo. Mauris eleifend, lorem sit amet porta gravida, dui elit efficitur orci, laoreet ultricies quam velit quis justo. Sed nec arcu consequat, pellentesque sapien vitae, tristique lorem. Morbi suscipit nibh quis arcu bibendum, sit amet consequat orci mattis. Ut ut purus sed lorem hendrerit placerat in ut nisl.7",
+            "category": "Living-Room",
+            "rating": 65
+        },
+        {
+            "id": "8",
+            "title": "table",
+            "price": 3333.99,
+            "image": "../assets/product-8.jpeg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet tellus leo. Mauris eleifend, lorem sit amet porta gravida, dui elit efficitur orci, laoreet ultricies quam velit quis justo. Sed nec arcu consequat, pellentesque sapien vitae, tristique lorem. Morbi suscipit nibh quis arcu bibendum, sit amet consequat orci mattis. Ut ut purus sed lorem hendrerit placerat in ut nisl.8",
+            "category": "Living-Room",
+            "rating": 65
+        }
+    ]
+}

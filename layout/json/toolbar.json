@@ -1,0 +1,25 @@
+[
+    {
+        "dropdown": "Products",
+        "products": [
+            "hello",
+            "world"
+        ]
+    },
+    {
+        "dropdown": "About",
+        "about": [
+            "hello",
+            "world",
+            "two"
+        ]
+    },
+    {
+        "dropdown": "Learn",
+        "learn": [
+            "hello",
+            "world",
+            "three"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Products",
+        "productsList": [
+            "hello",
+            "world"
+        ]
+    },
+    {
+        "title": "About",
+        "aboutList": [
+            "hello",
+            "world",
+            "two"
+        ]
+    },
+    {
+        "title": "Learn",
+        "learnList": [
+            "hello",
+            "world",
+            "three"
+        ]
+    }
+]
